@@ -7,13 +7,6 @@ id_rsa*
 *.tar.gz
 backups/
 
-# 个人信息
-CLAUDE.md
-简历-项目经历.md
-项目总结.md
-
-# AI 工具
-.claude/
 
 # 系统文件
 Desktop.ini
