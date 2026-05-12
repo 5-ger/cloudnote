@@ -19,4 +19,4 @@
 *   （可选）一个已解析到服务器IP的域名。
 
 ## 📖 详细步骤与排错
-请参考 [部署记录.md](链接)
+请参考 [部署记录.md](https://github.com/5-ger/cloudnote/blob/main/remotecode/%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95.md)
